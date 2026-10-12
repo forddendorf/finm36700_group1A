@@ -4,3 +4,5 @@ openpyxl
 ipykernel
 jupyterlab
 statsmodels
+matplotlib
+seaborn
